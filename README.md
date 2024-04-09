@@ -13,6 +13,7 @@ testing Google oAuth services to use in future projects
 - cors
 - express
 - knex
+- google-auth-library
 
 - > **dev:** 
   > - nodemon

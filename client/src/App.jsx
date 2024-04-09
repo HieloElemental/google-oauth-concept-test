@@ -1,9 +1,13 @@
+import GoogleAuth from './components/GoogleAuth'
+
 import './App.css'
 
 function App() {
   return (
     <>
-      Hello World!
+      <GoogleAuth>
+        Hello World!
+      </GoogleAuth>
     </>
   )
 }
